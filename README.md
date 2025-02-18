@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Benjamin Okyne</h1>
+<h1 align="center">Hi 👋, I'm Benjamin Okyne (kwamebond)</h1>
 <h3 align="center">🚀 Cloud & DevOps Engineer | AWS Solution Architect-Associate Certified | Linux Enthusiast</h3>
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
