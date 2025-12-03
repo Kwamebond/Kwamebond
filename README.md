@@ -1,21 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Benjamin Okyne</h1>
-<h3 align="center">🚀 Cloud & DevOps Engineer | AWS Solution Architect-Associate Certified | Linux Enthusiast</h3>
+<h3 align="center"> AWS Solution Architect-Associate Certified | Linux Enthusiast</h3>
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
 - 🔹 **Tech Stack:** AWS, Kubernetes, Terraform, Docker, CI/CD, Linux  
 🔹 **Passionate about:** Automating infrastructure & deploying scalable cloud solutions  
 
-- 🌱 I’m currently learning to be a **Ceertified Kubernetes Application Developer**
-
 ## 🔗 Featured Projects
 - 🏗 **[kube-app](https://github.com/Kwamebond/kube-app)** → Kubernetes Deployment for Microservices  
 - ⚡ **[iac-vprofile](https://github.com/Kwamebond/iac-vprofile)** → Infrastructure as Code (Terraform)  
-- 📦 **[vprofile-action](https://github.com/Kwamebond/vprofile-action)** → CI/CD Pipeline with GitHub Actions  
+- 📦 **[vprofile-action](https://github.com/Kwamebond/vprofile-action)** → CI/CD Pipeline with GitHub Actions
+- 📦 **[ansible-aws-vpc-Public](https://github.com/Kwamebond/ansible-aws-vpc.git)** → Ansible with AWS
 
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Cloud**
 
 - 📫 How to reach me **Benokyne91@gmail.com**
 
