@@ -9,8 +9,8 @@
 
 ## 🔗 Featured Projects
 - 🏗 **[kube-app](https://github.com/Kwamebond/kube-app)** → Kubernetes Deployment for Microservices  
-- ⚡ **[iac-vprofile](https://github.com/Kwamebond/iac-vprofile)** → Infrastructure as Code (Terraform)  
-- 📦 **[vprofile-action](https://github.com/Kwamebond/vprofile-action)** → CI/CD Pipeline with GitHub Actions
+- ⚡ **[jenkins-hello-world](https://github.com/Kwamebond/jenkins-hello-world)** → simple jenkins deployment pipeline
+### - 📦 **[vprofile-action](https://github.com/Kwamebond/vprofile-action)** → CI/CD Pipeline with GitHub Actions
 - 📦 **[ansible-aws-vpc-Public](https://github.com/Kwamebond/ansible-aws-vpc.git)** → Ansible with AWS
 
 
