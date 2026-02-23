@@ -7,7 +7,10 @@
 -  **Tech Stack:** Core Stack: AWS | Kubernetes | Terraform | Docker | GitLab CI/CD | Linux | Python | Ansible
 -  **Passionate about:** Automating infrastructure & deploying scalable cloud solutions
 
-## 🚀 AWS EKS GitOps Platform (GitLab)
+## 🚀 AWS EKS GitOps Platform. **This project is hosted on GitLab**
+To see the full CI/CD pipelines, Terraform code, and architecture:
+
+**👉 [View the Full Project Here](https://gitlab.com/kwamebond1/aws-eks-gitlab-gitops-platform)**
 
 Production-style DevOps platform demonstrating:
 
@@ -17,10 +20,9 @@ Production-style DevOps platform demonstrating:
 • Helm-driven Kubernetes deployments  
 • Environment promotion & production-style workflow 
 
-🔗 Main Project Platform Overview:
-**[aws-eks-gitlab-gitops-platform](https://gitlab.com/kwamebond1/aws-eks-gitlab-gitops-platform)**
 
-## 🔗 Other Featured Projects
+
+🔗 Other Featured Projects
 - 🏗 **[kube-app](https://github.com/Kwamebond/kube-app)** → Kubernetes Deployment for Microservices
 - 📦 **[ansible-aws-vpc-Public](https://github.com/Kwamebond/ansible-aws-vpc.git)** → Ansible with AWS
 
@@ -28,7 +30,7 @@ Production-style DevOps platform demonstrating:
 
 
 
-- 📫 How to reach me **Benokyne91@gmail.com**
+📫 How to reach me **Benokyne91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
