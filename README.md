@@ -12,13 +12,14 @@ To see the full CI/CD pipelines, Terraform code, and architecture:
 
 **👉 [View the Full Project Here](https://gitlab.com/kwamebond1/aws-eks-gitlab-gitops-platform)**
 
-Production-style DevOps platform demonstrating:
+### Project Overview:
+I built this production-ready EKS platform to demonstrate a full GitOps lifecycle.:
 
-• Infrastructure as Code with Terraform (VPC, EKS, node groups)  
-• GitLab CI/CD pipelines (validate → plan → apply → deploy)  
-• Container build automation & registry integration  
-• Helm-driven Kubernetes deployments  
-• Environment promotion & production-style workflow 
+### Key Technologies used in this repo:
+* **Infrastructure:** Terraform (VPC, EKS, Managed Node Groups)
+* **CI/CD:** GitLab CI (Multi-stage pipelines, Docker builds)
+* **Orchestration:** Kubernetes & Helm
+* **Cloud:** AWS (IAM, EKS, ELB)
 
 
 
