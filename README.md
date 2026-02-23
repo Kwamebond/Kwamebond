@@ -1,25 +1,38 @@
 
 <h1 align="center">Hi 👋, I'm Benjamin Okyne</h1>
-<h3 align="center"> AWS Solution Architect-Associate Certified | Linux Enthusiast</h3>
+<h3 align="center"> Cloud & DevOps Practitioner | AWS Certified Solutions Architect – Associate</h3>
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
-- 🔹 **Tech Stack:** AWS, Kubernetes, Terraform, Docker, CI/CD, Linux  
-🔹 **Passionate about:** Automating infrastructure & deploying scalable cloud solutions  
+- 🔹 **Tech Stack:** Core Stack: AWS | Kubernetes | Terraform | Docker | GitLab CI/CD | Linux | Python | Ansible
+🔹 **Passionate about:** Automating infrastructure & deploying scalable cloud solutions
 
-## 🔗 Featured Projects
-- 🏗 **[kube-app](https://github.com/Kwamebond/kube-app)** → Kubernetes Deployment for Microservices  
-- ⚡ **[jenkins-hello-world](https://github.com/Kwamebond/jenkins-hello-world)** → simple jenkins deployment pipeline
+## 🚀 AWS EKS GitOps Platform (GitLab)
+
+Production-style DevOps platform demonstrating:
+
+• Infrastructure as Code with Terraform (VPC, EKS, node groups)  
+• GitLab CI/CD pipelines (validate → plan → apply → deploy)  
+• Container build automation & registry integration  
+• Helm-driven Kubernetes deployments  
+• Environment promotion & production-style workflow 
+
+🔗 Main Project Platform Overview:
+**[aws-eks-gitlab-gitops-platform](https://gitlab.com/kwamebond1/aws-eks-gitlab-gitops-platform)**
+
+## 🔗 Other Featured Projects
+- 🏗 **[kube-app](https://github.com/Kwamebond/kube-app)** → Kubernetes Deployment for Microservices
 - 📦 **[ansible-aws-vpc-Public](https://github.com/Kwamebond/ansible-aws-vpc.git)** → Ansible with AWS
 
 
-- 💬 Ask me about **Cloud**
+
+
 
 - 📫 How to reach me **Benokyne91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benjamin okyne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin okyne" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/benjamin-okyne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin okyne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
