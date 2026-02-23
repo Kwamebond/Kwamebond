@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Benjamin Okyne</h1>
 <h3 align="center"> Cloud & DevOps Practitioner | AWS Certified Solutions Architect – Associate</h3>
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
+- **Focused on building cloud-native infrastructure and deployment platforms.**
 
-- 🔹 **Tech Stack:** Core Stack: AWS | Kubernetes | Terraform | Docker | GitLab CI/CD | Linux | Python | Ansible
-🔹 **Passionate about:** Automating infrastructure & deploying scalable cloud solutions
+-  **Tech Stack:** Core Stack: AWS | Kubernetes | Terraform | Docker | GitLab CI/CD | Linux | Python | Ansible
+-  **Passionate about:** Automating infrastructure & deploying scalable cloud solutions
 
 ## 🚀 AWS EKS GitOps Platform (GitLab)
 
